@@ -1,2 +1,3 @@
 # Portfolio-website
-A basic Portfolio website using html,CSS
+A basic Portfolio website using html,CSS and Javascript
+
